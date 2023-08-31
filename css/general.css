@@ -1,0 +1,20 @@
+body{
+  margin: 0;
+	padding: 0 0 500 0;
+}
+
+h1,h2{
+	color:#66BFBF;
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+	color: #11999E;
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+p{
+	font-family: 'Merriweather', serif;
+}

@@ -1,0 +1,34 @@
+.top-section{
+	height: 650px;
+	width: 100%;
+	background-color: #EAF6F6;
+	position: relative;
+}
+
+.middle-section{
+	padding: 60px 0% 0px 0%;
+
+}
+
+.skill-section{
+	margin-left: 370px;
+	margin-bottom:100px
+}
+
+.skill-section-two{
+	margin-left: 240px;
+	margin-bottom: 70px;
+}
+
+.skill-div{
+	margin-left: 160px;
+}
+
+.skill-div-two{
+	margin-left: 145px;
+}
+
+.bottom-section{
+	height: 150px;
+	background-color: #66BFBF;
+}
